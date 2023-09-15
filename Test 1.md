@@ -15,10 +15,7 @@ In this test, you will create an automated test suite using Selenium WebDriver i
 9. Use assertions to validate the data displayed on the pages.
 10. Generate a test report using TestNG's `MySuite`.
 
-## Steps
 ### Setup
-- Follow the same setup process as mentioned in your previous test description.
-
 ### Create Page Objects
 - Create separate Java classes for each page of the GitHub Users Search website that you will be interacting with: `HomePage`, `UserDetailsPage`, and `UserRepositoriesPage`.
 - In each class, create methods for the actions that can be performed on the page, such as searching for a user, viewing user details, and viewing user repositories.
