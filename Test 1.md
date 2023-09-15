@@ -25,10 +25,12 @@ In this test, you will create an automated test suite using Selenium WebDriver i
 - In this class, create methods for each of the test cases mentioned in the 'Requirements' section above. Use the `@Test` annotation for each test case method.
 
 ### Generate Test Report
-- Follow the same process as mentioned in your previous test description.
+- Configure TestNG to generate a test report using `MySuite`.
+- Run your test suite and verify that the test report is generated correctly.
 
 ### Run the Test Suite
-- Follow the same process as mentioned in your previous test description.
+- Run your test suite and verify that all the test cases pass.
+- Check the generated test report for details of the test execution.
 
 ## Deliverables
 1. The complete source code of your automated test suite.
